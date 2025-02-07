@@ -3,7 +3,7 @@
  Title:       Assignment1 - First C++ Program
  Course:      CSC 1100
  Author:      Omar Alshami
- Date:       02/06/2025
+ Date:       02/05/2025
  Description: this program prints Hello world!", it also prints prints the sum of 100 + 1.
 
  ==========================================================
